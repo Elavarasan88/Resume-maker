@@ -1,7 +1,7 @@
 {
   "name": "learn-react",
   "version": "0.1.0",
-  "homepage": "https://elavarasan88.github.io/Resume-maker",
+  "homepage": "https://elavarasan88.github.io/Resume-builder",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
